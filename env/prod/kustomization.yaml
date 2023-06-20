@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/cvasq/demo-app
+  newTag: cd1297ec8eff42f7aee5f6d56de3f4a89434175e
