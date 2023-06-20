@@ -5,4 +5,4 @@ resources:
 - ../../base
 images:
 - name: ghcr.io/cvasq/demo-app
-  newTag: c2e7b287237cc88976a429e44a5ead1c3a361977
+  newTag: 67344178d62e2b2e381f133fc679621e3a705173
