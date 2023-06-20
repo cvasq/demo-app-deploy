@@ -25,7 +25,7 @@ spec:
         app: demo-app
     spec:
       containers:
-      - image: ghcr.io/cvasq/demo-app:c2e7b287237cc88976a429e44a5ead1c3a361977
+      - image: ghcr.io/cvasq/demo-app:67344178d62e2b2e381f133fc679621e3a705173
         name: demo-app
         ports:
         - containerPort: 8080
